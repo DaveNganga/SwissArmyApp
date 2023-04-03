@@ -18,6 +18,14 @@ supported screen size: anything above 800px * 600px.  <br />
 
 ## User requirements:
 
+1. As the project owner, I want to have Landing Page to show the company logo.
+2. As a user, I want to be able to put my name or nickname 
+3. as a user, I want to have a tip calculator to calculate the amount of tip I need to give
+4. As the project owner, I want to have games on the app to keep client entertained while they wait
+5. As the project owner, I want to have sports info on the app to keep client entertained while they wait
+6. As the project owner, I want to have Bible verse on the app to show that we are a Christian company and we want to share His word to the world
+7. As a user, I want to be able to change some settings so I can use the font or color I like
+
 ## UML diagrams:
 
 # UI mockup:
