@@ -1,6 +1,7 @@
 # SwissArmyApp
 
 ## Team members:
+
   1. Dave	Ng'ang'a <br />
   2. Garrett	Seidel <br />
   3. Dawei	Zhao <br />
@@ -18,3 +19,4 @@ The objectives of this project is to build a Desktop application called "Swiss A
 ## UML diagrams:
 
 # UI mockup:
+
