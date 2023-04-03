@@ -13,8 +13,8 @@ The objectives of this project is to build a Desktop application called "Swiss A
 ## Installation and Usage:
 
 ## Requirements for system:
-Windows Vista, Windows 7, Windows 8, Windows 10, macOS and Linux operating systems. 
-supported screen size: anything above 800px * 600px
+Windows Vista, Windows 7, Windows 8, Windows 10, macOS and Linux operating systems. <br />
+supported screen size: anything above 800px * 600px.  <br />
 
 ## User requirements:
 
