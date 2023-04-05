@@ -26,9 +26,11 @@ supported screen size: anything above 800px * 600px.  <br />
 6. As the project owner, I want to have Bible verse on the app to show that we are a Christian company and we want to share His word to the world
 7. As a user, I want to be able to change some settings so I can use the font or color I like
 
-## UML 
-dia![Activity 3 - Sports](https://user-images.githubusercontent.com/44644848/229955542-6c555af5-6d27-4feb-9155-449962807a0a.png)
-grams:
+## UML diagrams:
+
+### Activity 3 - Sports
+![Activity 3 - Sports](https://user-images.githubusercontent.com/44644848/229956059-6ead169e-1d72-4003-a6f9-aba3cf323e06.png)
+
 
 # UI mockup:
 
