@@ -28,6 +28,9 @@ supported screen size: anything above 800px * 600px.  <br />
 
 ## UML diagrams:
 
+### Activity 1 - Tip Calculator
+![Activity 1 - TipCalculator]()
+
 ### Activity 2 - Game
 [hangmanUML.drawio](SwissArmyApp%2Fsrc%2Fmain%2Fresources%2Fcom%2Fexample%2Fswissarmyapp%2FhangmanUML.drawio)
 
