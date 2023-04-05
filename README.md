@@ -26,7 +26,7 @@ supported screen size: anything above 800px * 600px.  <br />
 6. As the project owner, I want to have Bible verse on the app to show that we are a Christian company and we want to share His word to the world
 7. As a user, I want to be able to change some settings so I can use the font or color I like
 
-## UML diagrams:
+## UI mockup:
 
 ### Activity 1 - Tip Calculator
 ![Activity 1 - TipCalculator](https://user-images.githubusercontent.com/66706679/230077005-43242a75-effb-477d-b949-f7efc36b511f.jpg)
@@ -37,5 +37,10 @@ supported screen size: anything above 800px * 600px.  <br />
 ### Activity 3 - Sports
 ![Activity 3 - Sports](https://user-images.githubusercontent.com/44644848/229956059-6ead169e-1d72-4003-a6f9-aba3cf323e06.png)
 
-# UI mockup:
+# UML diagrams:
+
+### Activity 1 - Tip Calculator
+![yipCalculatorUML](https://user-images.githubusercontent.com/66706679/230085257-e7fde85c-592b-4b5e-a3e3-736be97f5dcd.jpg)
+
+
 
