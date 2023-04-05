@@ -31,10 +31,8 @@ supported screen size: anything above 800px * 600px.  <br />
 ### Activity 1 - Tip Calculator
 ![Activity 1 - TipCalculator](https://user-images.githubusercontent.com/66706679/230077005-43242a75-effb-477d-b949-f7efc36b511f.jpg)
 
-
 ### Activity 2 - Game
 ![HangmanUI.png](SwissArmyApp%2Fsrc%2Fmain%2Fresources%2Fcom%2Fexample%2Fswissarmyapp%2FHangmanUI.png)
-[hangmanUML.drawio](SwissArmyApp%2Fsrc%2Fmain%2Fresources%2Fcom%2Fexample%2Fswissarmyapp%2FhangmanUML.drawio)
 
 ### Activity 3 - Sports
 ![Activity 3 - Sports](https://user-images.githubusercontent.com/44644848/229956059-6ead169e-1d72-4003-a6f9-aba3cf323e06.png)
