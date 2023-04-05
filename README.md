@@ -33,6 +33,7 @@ supported screen size: anything above 800px * 600px.  <br />
 
 
 ### Activity 2 - Game
+![HangmanUI.png](SwissArmyApp%2Fsrc%2Fmain%2Fresources%2Fcom%2Fexample%2Fswissarmyapp%2FHangmanUI.png)
 [hangmanUML.drawio](SwissArmyApp%2Fsrc%2Fmain%2Fresources%2Fcom%2Fexample%2Fswissarmyapp%2FhangmanUML.drawio)
 
 ### Activity 3 - Sports
