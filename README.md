@@ -29,10 +29,10 @@ supported screen size: anything above 800px * 600px.  <br />
 ## UI mockup:
 
 ### Home - First screen
-![image](https://user-images.githubusercontent.com/44644848/230133199-7e18208b-ec90-4bea-b5ba-6ec878a58c4c.png)
+![image](https://user-images.githubusercontent.com/44644848/230133199-7e18208b-ec90-4bea-b5ba-6ec878a58c4c.png =500x350)
 
 ### Activity 1 - Tip Calculator
-![Activity 1 - TipCalculator](https://user-images.githubusercontent.com/66706679/230077005-43242a75-effb-477d-b949-f7efc36b511f.jpg)
+![Activity 1 - TipCalculator](https://user-images.githubusercontent.com/66706679/230077005-43242a75-effb-477d-b949-f7efc36b511f.jpg =500x350)
 
 ### Activity 2 - Game
 ![HangmanUI.png](SwissArmyApp%2Fsrc%2Fmain%2Fresources%2Fcom%2Fexample%2Fswissarmyapp%2FHangmanUI.png)
