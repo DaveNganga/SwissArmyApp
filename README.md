@@ -29,22 +29,20 @@ supported screen size: anything above 800px * 600px.  <br />
 ## UI mockup:
 
 ### Home - First screen
-<img src="https://user-images.githubusercontent.com/44644848/230133199-7e18208b-ec90-4bea-b5ba-6ec878a58c4c.png" width="500" height="350" />
+<img src="https://user-images.githubusercontent.com/44644848/230133199-7e18208b-ec90-4bea-b5ba-6ec878a58c4c.png" width="900" height="650" />
 
 ### Activity 1 - Tip Calculator
-![Activity 1 - TipCalculator](https://user-images.githubusercontent.com/66706679/230077005-43242a75-effb-477d-b949-f7efc36b511f.jpg =500x350)
+<img src="https://user-images.githubusercontent.com/66706679/230077005-43242a75-effb-477d-b949-f7efc36b511f.jpg" width="900" height="650" />
 
 ### Activity 2 - Game
-![HangmanUI.png](SwissArmyApp%2Fsrc%2Fmain%2Fresources%2Fcom%2Fexample%2Fswissarmyapp%2FHangmanUI.png)
+<img src="SwissArmyApp%2Fsrc%2Fmain%2Fresources%2Fcom%2Fexample%2Fswissarmyapp%2FHangmanUI.png" width="900" height="650" />
 
 ### Activity 3 - Sports
-![Activity 3 - Sports](https://user-images.githubusercontent.com/44644848/229956059-6ead169e-1d72-4003-a6f9-aba3cf323e06.png)
+<img src="https://user-images.githubusercontent.com/44644848/230135442-ba0c766f-9cf6-4556-9049-b573416570f0.png" width="900" height="650" />
 
 # UML Diagram
 
 ![image](https://user-images.githubusercontent.com/44644848/230129107-354ff7e2-3266-47f1-a842-92f728ad48b3.png)
 
-### Activity 1 - Tip Calculator
-![yipCalculatorUML](https://user-images.githubusercontent.com/66706679/230085257-e7fde85c-592b-4b5e-a3e3-736be97f5dcd.jpg)
 
 
