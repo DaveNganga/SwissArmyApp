@@ -27,6 +27,15 @@ supported screen size: anything above 800px * 600px.  <br />
 7. As a user, I want to be able to change some settings so I can use the font or color I like
 
 ## UML diagrams:
+
+### Activity 2 - Game
 [hangmanUML.drawio](..%2F..%2FDownloads%2FhangmanUML.drawio)
+
+
+### Activity 3 - Sports
+![Activity 3 - Sports](https://user-images.githubusercontent.com/44644848/229956059-6ead169e-1d72-4003-a6f9-aba3cf323e06.png)
+
+
+
 # UI mockup:
 ![HangmanUI.png](SwissArmyApp%2Fsrc%2Fmain%2Fresources%2Fcom%2Fexample%2Fswissarmyapp%2FHangmanUI.png)
