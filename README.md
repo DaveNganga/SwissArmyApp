@@ -37,10 +37,11 @@ supported screen size: anything above 800px * 600px.  <br />
 ### Activity 3 - Sports
 ![Activity 3 - Sports](https://user-images.githubusercontent.com/44644848/229956059-6ead169e-1d72-4003-a6f9-aba3cf323e06.png)
 
-# UML diagrams:
+# UML Diagram:
+
+![image](https://user-images.githubusercontent.com/44644848/230129107-354ff7e2-3266-47f1-a842-92f728ad48b3.png)
 
 ### Activity 1 - Tip Calculator
 ![yipCalculatorUML](https://user-images.githubusercontent.com/66706679/230085257-e7fde85c-592b-4b5e-a3e3-736be97f5dcd.jpg)
-
 
 
