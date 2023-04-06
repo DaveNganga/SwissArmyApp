@@ -29,7 +29,7 @@ supported screen size: anything above 800px * 600px.  <br />
 ## UI mockup:
 
 ### Home - First screen
-<img src="(https://user-images.githubusercontent.com/44644768/230429205-ebfcaa4f-b640-44ab-ad19-ced64a3063bd.png)" width="900" height="650" />
+<img src="" width="900" height="650" />
 
 ### Activity 1 - Tip Calculator
 <img src="https://user-images.githubusercontent.com/66706679/230077005-43242a75-effb-477d-b949-f7efc36b511f.jpg" width="900" height="650" />
@@ -41,7 +41,7 @@ supported screen size: anything above 800px * 600px.  <br />
 <img src="https://user-images.githubusercontent.com/44644848/230135442-ba0c766f-9cf6-4556-9049-b573416570f0.png" width="900" height="650" />
 
 ### Activity 4 - Verse of the Day
-<img src="https://user-images.githubusercontent.com/44644768/230427922-454af1f4-94f4-4353-8d51-422e1e2794a5.png" width="900" height="650" />
+<img src="https://user-images.githubusercontent.com/44644768/230429205-ebfcaa4f-b640-44ab-ad19-ced64a3063bd.png" width="900" height="650" />
 
 
 # UML Diagram
