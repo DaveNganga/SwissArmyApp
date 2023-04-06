@@ -29,7 +29,7 @@ supported screen size: anything above 800px * 600px.  <br />
 ## UI mockup:
 
 ### Home - First screen
-<img src="https://user-images.githubusercontent.com/44644848/230133199-7e18208b-ec90-4bea-b5ba-6ec878a58c4c.png" width="900" height="650" />
+<img src="(https://user-images.githubusercontent.com/44644768/230429205-ebfcaa4f-b640-44ab-ad19-ced64a3063bd.png)" width="900" height="650" />
 
 ### Activity 1 - Tip Calculator
 <img src="https://user-images.githubusercontent.com/66706679/230077005-43242a75-effb-477d-b949-f7efc36b511f.jpg" width="900" height="650" />
