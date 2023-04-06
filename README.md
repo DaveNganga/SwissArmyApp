@@ -40,6 +40,10 @@ supported screen size: anything above 800px * 600px.  <br />
 ### Activity 3 - Sports
 <img src="https://user-images.githubusercontent.com/44644848/230135442-ba0c766f-9cf6-4556-9049-b573416570f0.png" width="900" height="650" />
 
+### Activity 4 - Verse of the Day
+<img src="https://user-images.githubusercontent.com/44644768/230427922-454af1f4-94f4-4353-8d51-422e1e2794a5.png" width="900" height="650/>
+
+
 # UML Diagram
 
 ![image](https://user-images.githubusercontent.com/44644848/230129107-354ff7e2-3266-47f1-a842-92f728ad48b3.png)
